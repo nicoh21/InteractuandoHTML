@@ -1,0 +1,25 @@
+
+#contenedor{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+
+} 
+
+.tarjetas{
+    background-color: rgb(204, 203, 203);
+    border: solid 2px black;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 15rem;
+    
+
+}
+
+.tarjetas:hover{
+    background-color: rgb(155, 154, 154);
+}
